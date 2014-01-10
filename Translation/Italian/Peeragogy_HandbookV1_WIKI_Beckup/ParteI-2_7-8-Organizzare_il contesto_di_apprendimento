@@ -1,0 +1,44 @@
+__NOTOC__
+ <div align="justify">
+Finora la teoria della '''paragogia''' si può riassumere come una raccolta di consigli, basati tuttavia sull'esperienza. Sebbene le due accezioni a questo concetto differiscano minimamente nel loro orientamento, senza dubbio, il presente manuale ha offerto per lo più "consigli per i professionisti", per le persone già coinvolte in questo ambito o per chi vorrebbe cominciare a sperimentare questa nuova metodologia. 
+
+Questa sezione si rivolge a "''ricercatori professionisti"'', e nello specifico tratterà i modi in cui la "tecnologia" (in un senso più ampio) si interseca, o si può intersecare, con la teoria e la pratica della peeragogia. 
+
+Ad esempio: abbiamo sostenuto che "l'apprendimento è distribuito e non lineare" — ma siamo in grado di rilevare quando avviene effettivamente l'apprendimento? (Come facciamo a sapere che avviene? Come possiamo rivelarlo?)
+Collegheremo i principi della '''peragogy''' ad alcune importanti tecnologie (in questo caso, strumenti), e in più diremo qualcosa riguardo le relative applicazioni. Dopodiché descriveremo alcuni potenziali esperimenti di interesse.
+
+*1-Principio: 
+'''Cambiare il contesto come centro decentrato.'''
+
+Interagiamo cambiando il nostro spazio di indagine. Una tecnologia di rilievo rileverebbe testi "simili" o "relazionati" e modellerebbe un contesto "efficace" costruendo il contesto di lavoro e apprendimento.
+
+'''Applicazione:''' Posso portare sulla mia linea di indagine dei testi rilevanti quando sto lavorando su un particolare problema. (Cfr. Vannevar Bush, “AS WE MAY THINK")
+
+*2- Principio: 
+'''Meta-apprendimento come fonte di conoscenza.'''
+
+Interagiamo cambiando ciò che sappiamo su di  noi. Una tecnologia di rilievo rileverebbe l'acquisizione del vocabolario e modellerebbe un discente come un vocabolario per tempo, o ancora meglio, come un sottoschema del grafico della conoscenza a disposizione — mostrando le abilità funzionali (vedi Principio 4).
+
+'''Applicazione:''' Posso tenere traccia dell'informazione sto "imparando".
+
+*3- Principio: 
+'''I compagni di rete forniscono un feedback che altrimenti non avremmo.''' Interagiamo cambiando le nostre prospettive sulle cose. Una tecnologia di rilievo rileverebbe modi diversi di impegnarsi e modellerebbe il comportamento sociale come "chiedere, dare, o ottenere aiuto".
+
+'''Applicazione:''' So chi potrebbe essere un buon mentore, o uno studente seguito o un partner per conversare o collaborare per me.
+
+*4- Principio: 
+'''L'apprendimento è distribuito e non lineare.''' Interagiamo cambiando il modo in cui le cose si connettono tra loro. Una tecnologia di rilievo rileverebbe dei cambiamenti nel grafico di base relativi ai concetti e alle strutture: questo, ovviamente, richiede un contesto in cui possiamo modellare il contesto come un grafico.
+
+'''Applicazione:''' Questo è un blocco costruttivo di base per alcune delle altre informazioni che vorremmo rilevare, ma mostra anche dove si costruisce la conoscenza collettiva e può aiutare le persone a trovare delle "frontiere di ricerca" e delle "questioni calde".
+
+*5- Principio: 
+'''Realizzate il vostro sogno e poi svegliatevi! Interagiamo cambiando i nostri obiettivi.''' Una tecnologia di rilievo rileverebbe l'uso e il dominio dell'euristica e modellerebbe il modi di pensare usati per creare un testo dato, e modellerebbe i partecipanti come agenti in grado di utilizzare diversi modi di pensare.
+'''Applicazione:''' Posso tenere traccia delle tecniche. Sto imparando e mi segno che cosa non funziona.  
+
+Ciò non ci dice come renderemo effettive le varie tecnologie abbozzate e citate sopra, ma in poche parole: la maggior parte, se non tutte, possono essere costruite usando un linguaggio di programmazione standard e alcune tecniche di processazione di testo, supportate dove rilevante da sistemi di metadati (come un triple store RDF). Un altro ingrediente sarebbe descrivere la lingua inglese attraverso network semantici (come [http://it.wikipedia.org/wiki/Wordnet Wordnet]) e dominare dei depositi di conoscenza che possono essere trasformati in network semantici (come PlanetMath.org).
+Una volta che questi strumenti sono pronti a essere utilizzati, possiamo iniziare gli esperimenti. Il prossimo sotto-paragrafo descrive alcuni potenziali esperimenti di interesse.
+
+</div>
+[[Categoria:Peeragogia|Organizzare il contesto di apprendimento]]
+{{avanzamento|100%}}
+
